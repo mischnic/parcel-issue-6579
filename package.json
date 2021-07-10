@@ -1,0 +1,9 @@
+{
+	"browserslist": "IE 11",
+	"scripts": {
+		"build": "parcel build index.html --no-optimize"
+	},
+	"dependencies": {
+		"parcel": "2.0.0-nightly.763"
+	}
+}
